@@ -33,6 +33,8 @@ DigitButton - should get {value(0-9) , onClick(function)} as props. </br>
 - sqrt √x (√16 = 4)
 8. You should be able to do (9*2 = 18 => 18 + 3 = 21 => 21 * 2 = 42)
 
+![operation](./readme-files/operations.gif?raw=true "operation")
+
 # important!
 
 In order to make the tests run properly, do not change the id's of the components, and make sure to use the right types and values!
