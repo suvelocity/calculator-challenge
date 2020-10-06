@@ -33,7 +33,7 @@ DigitButton - should get {value(0-9) , onClick(function)} as props. </br>
 - modulo % (9%2 = 1)
 - power x² (3² = 9)
 - sqrt √x (√16 = 4)
-8. You should be able to do complicated operations (9*2 = 18 => 18 + 3 = 21 => 21 * 2 = 42)
+8. You should be able to do complicated operations (9*2 = 18 => 18 % 4 = 2 => 2 * 2 = 4)
 ![complicated-operations](./readme-files/complicated-operations.gif?raw=true "complicated-operations")
 
 
